@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning SQL 
 - 💞️ I’m looking to collaborate on SQL
 - 📫 How to reach me dondilan51@gmail.com
+- 🌱 I’m currently learning mongodb
+-  I’m interested in python gui 
 
 <!---
 Bandalaro/Bandalaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
